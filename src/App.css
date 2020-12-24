@@ -1,0 +1,11 @@
+.container{
+  margin: 50px;
+}
+
+.container-fluid h1{
+  text-align:center;
+  padding:20px;
+  font-size:80px;
+  text-decoration:underline;
+  font-family:cursive;
+}
